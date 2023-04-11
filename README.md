@@ -1,9 +1,18 @@
 # Welcome Octonauts
 
-Hello and welcome to my profile page on Github!
-My name is Andreas and I am developer by proffession based in Sweden. I love everything about systems engineering; architecture, development and systems design.
+My name is Andreas and I am a software developer based in Sweden. I currently lead developer at [ActiveQuiz Europe AB](https://activequiz.com) where I do
+software development (both for web and mobile), devops and sysops, architecture and technical planning.
 
-I am currently employed at [hiveandfive](https://github.com/hiveandfive) where I work in a small team and get to solve interesting problems on a daily basis, wether it's on our flagship [AdventureHero](https://adventurehero.se) or together with a client doing consultant work.
+I mainly work professionaly with [Laravel](https://laravel.com) and [React](https://react.dev), but on my spare time I dabble alot with [Go](https://golang.org) which is
+my prefered weapon of choice.
+
+I am a strong advocate of [Docker](https://docker.com) and I love the world of Open-Source Software.
+
+If you have any questions regarding me or my work, please do not hestitate to [email me](mailto://andreas.malmqvist@activequiz.com)
+
+Kind Regards
+
+Andreas Malmqvist
 
 <img height=30 src="https://golang.org/favicon.ico"/>
 
@@ -13,3 +22,9 @@ I am currently employed at [hiveandfive](https://github.com/hiveandfive) where I
 - Docker
 - Devops
 - Linux
+- Laravel
+- React
+- NodeJS
+- Javascript
+- Typescript
+- HTML5
